@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Stochastic Gradient Descent outperforms Gradient Descent in recovering a high-dimensional signal in a glassy energy landscape"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract
+
+Stochastic Gradient Descent (SGD) is an out-of-equilibrium algorithm used extensively to train artificial neural networks. However very little is known on to what extent SGD is crucial for to the success of this technology and, in particular, how much it is effective in optimizing high-dimensional non-convex cost functions as compared to other optimization algorithms such as Gradient Descent (GD). In this work we leverage dynamical mean field theory to analyze exactly its performances in the high-dimensional limit. We consider the problem of recovering a hidden high-dimensional non-linearly encrypted signal, a prototype high-dimensional non-convex hard optimization problem. We compare the performances of SGD to GD and we show that SGD largely outperforms GD. In particular, a power law fit of the relaxation time of these algorithms shows that the recovery threshold for SGD with small batch size is smaller than the corresponding one of GD.
