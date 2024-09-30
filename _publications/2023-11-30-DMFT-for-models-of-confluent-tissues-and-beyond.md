@@ -2,7 +2,7 @@
 title: "Dynamical mean field theory for models of confluent tissues and beyond"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-11-30-Dynamical mean field theory for models of confluent tissues and beyond
+permalink: /publication/2023-11-30-DMFT-for-models-of-confluent-tissues-and-beyond
 date: 2023-11-30
 venue: 'SciPost Physics'
 paperurl: 'http://persiakamali.github.io/files/SciPostPhys_15_5_219.pdf'
