@@ -21,7 +21,7 @@ repository               : "PersiaKamali/persiakamali.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile-image.jpg"
+  avatar           : "image.png"
   name             : "Persia Kamali"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science"
