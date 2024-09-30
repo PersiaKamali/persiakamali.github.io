@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2023-11-30
 venue: 'SciPost Physics'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://persiakamali.github.io/files/SciPostPhys_15_5_219.pdf'
 ---
 
 Abstract
