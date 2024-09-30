@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am first year PhD student, working between the frontier of Computer Science and Theoretical Neuroscience.
+Hello! I am first year PhD student, working at the frontier of Computer Science and Theoretical Neuroscience.
