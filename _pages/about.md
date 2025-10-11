@@ -26,7 +26,7 @@ What I am learning about at the moment
 ---
 I am following two courses:
 
-- [Computational Neuroscience: Neuronal Dynamics of Cognition](https://learning.edx.org/course/course-v1:EPFLx+BIO465.2x+2T2018/home) on edX. Having a background in statistical physics, I am following this course in order to persue my reaserch in this field. I strongly suggest this course for anyone interested in understanding how neuroscientist make quantative models of how the brain learns!
+- [Computational Neuroscience: Neuronal Dynamics of Cognition](https://learning.edx.org/course/course-v1:EPFLx+BIO465.2x+2T2018/home) on edX. Having a background in statistical physics, I am following this course in order to pursue my reaserch in the field of neuroscience. I strongly suggest this course for anyone interested in understanding how neuroscientist make quantative models of how the brain learns!
 
 - [MPAGS - High Performance Computing in Julia](https://www.youtube.com/watch?v=KCTQFPKK7gA&list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA) on YouTube. It is a course on the programming language Julia and it is directed towards researchers like me! I also recommend this course for anyone who wants to upgrade their Julia skills.
 
