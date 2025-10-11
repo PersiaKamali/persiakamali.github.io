@@ -14,7 +14,7 @@ I am currently in the second year of my PhD at the [Department of Computing Scie
 
 Current research
 ---
- I am working with [Prof. Nicolas Brunel](https://cs.unibocconi.eu/people/nicolas-brunel) and [Dr. Marco Benedetti](https://scholar.google.com/citations?user=x2uQWsIAAAAJ&hl=en) on generalised Hopefield Networks, with the aim to understand how learning occurs in the human brain.
+ I am working with [Prof. Nicolas Brunel](https://cs.unibocconi.eu/people/nicolas-brunel) and [Dr. Marco Benedetti](https://scholar.google.com/citations?user=x2uQWsIAAAAJ&hl=en) on generalised Hopfield Networks, with the aim to understand how learning occurs in the human brain.
 
 In particular, we would like to implement a [biologically inferred learning rule](https://pubmed.ncbi.nlm.nih.gov/26523643/) in a rate model with attractor dynamics.
 
