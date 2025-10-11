@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Neuroscience, Bocconi University, 2028 (expected)
+* M.S. in Physics of Complex Systems, Politecnico di Torino, 2023
+* B.S. in Engineering Physics, Politecnico di Torino, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2024 - July 2024: Research Assistant
+  * Bocconi University, Milan, Italy
+  * Duties includes: Study Hopfield networks and implement a biologically plausible learning rule in recurrent neural networks
+  * Supervisor: Prof. Nicolas Brunel & Dr. Marco Benedetti
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2023 — July 2023: Master Internship
+  * Institut de Physique Théorique, Gif-sur-Yvette, France
+  * Duties included: Study the literature on Dynamical Mean Field Theory and apply it on the problem of confluent tissue
+  * Supervisor: Dr. Pierfrancesco Urbani
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C
+  * Julia
+  * Python
+* Languages
+  * Italian
+  * English
+  * Czech
+  * French
 
 Publications
 ======
@@ -47,11 +45,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I am the representative of the PhD students in Computer Science

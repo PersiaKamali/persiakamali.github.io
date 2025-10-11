@@ -22,7 +22,7 @@ Reaserch interests
 ---
 I am interested in computational neuroscience, machine and biological learning, statistical physics and complex systems.
 
-What I am learning at the moment
+What I am learning about at the moment
 ---
 I am following two courses:
 
