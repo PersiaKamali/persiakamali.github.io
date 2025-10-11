@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there! Thank you for visiting my personal page :)
 
-I am currently in the second year of my PhD at [Bocconi University](https://www.unibocconi.it/en) and doing research in the field of Computational Neuroscience.
+I am currently in the second year of my PhD at the [Department of Computing Sciences](https://cs.unibocconi.eu) of Bocconi University and doing research in the field of Computational Neuroscience.
 
 
 Current research
@@ -18,7 +18,7 @@ Current research
 
 In particular, we would like to implement a [biologically inferred learning rule](https://pubmed.ncbi.nlm.nih.gov/26523643/) in a rate model with attractor dynamics.
 
-Reaserch interest
+Reaserch interests
 ---
 I am interested in computational neuroscience, machine and biological learning, statistical physics and complex systems.
 
