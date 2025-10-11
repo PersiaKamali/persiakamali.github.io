@@ -24,7 +24,7 @@ I am interested in computational neuroscience, machine and biological learning, 
 
 What I am learning at the moment
 ---
-I am following in two courses:
+I am following two courses:
 
 - [Computational Neuroscience: Neuronal Dynamics of Cognition](https://learning.edx.org/course/course-v1:EPFLx+BIO465.2x+2T2018/home) on edX. Having a background in statistical physics, I am following this course in order to persue my reaserch in this field. I strongly suggest this course for anyone interested in understanding how neuroscientist make quantative models of how the brain learns!
 
