@@ -3,7 +3,7 @@ title: "Dynamical mean field theory for models of confluent tissues and beyond"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-30-Dynamical-mean-field-theory-for-models-of-confluent-tissues-and-beyond
-excerpt: 'This paper was the result of my master thesis and internship done at the Institut de Physique Paris-Saclay, under the supervision of Dr. Pierfranceso Urbani.'
+excerpt: 'This paper was the result of my master thesis and internship done at the Institut de Physique Théorique in Paris-Saclay, under the supervision of Dr. Pierfranceso Urbani.'
 date: 2023-11-30
 venue: 'SciPost Physics'
 paperurl: 'https://persiakamali.github.io/files/ConfluentTissues.pdf'

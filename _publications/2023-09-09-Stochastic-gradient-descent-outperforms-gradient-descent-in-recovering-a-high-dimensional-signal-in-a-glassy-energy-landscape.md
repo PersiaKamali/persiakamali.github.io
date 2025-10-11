@@ -3,7 +3,7 @@ title: "Stochastic gradient descent outperforms gradient descent in recovering a
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-09-Stochastic-gradient-descent-outperforms-gradient-descent-in-recovering-a-high-dimensional-signal-in-a-glassy-energy-landscape
-excerpt: 'This paper is a spin-off of the previous paper, Dynamical mean field theory for models of confluent tissues and beyond, done in collaboration with Dr. Pierfrancesco Urbani at Institut de Physique Paris-Saclay.'
+excerpt: 'This paper is a spin-off of the previous paper, Dynamical mean field theory for models of confluent tissues and beyond, done in collaboration with Dr. Pierfrancesco Urbani at Institut de Physique Théorique in Paris-Saclay.'
 date: 2023-09-09
 venue: 'arXiv preprint'
 paperurl: 'https://persiakamali.github.io/files/SGDvsGD.pdf'
