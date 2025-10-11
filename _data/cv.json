@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "email": "persia.kamali@unibocconi.it",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://persiakamali.github.io",
+    "summary": "I am in the 2nd year of my PhD in Computational Neuroscience at Bocconi University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Milan",
+      "countryCode": "IT",
       "region": ""
     },
     "profiles": [
@@ -33,17 +33,17 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "Politecnico di Torino",
       "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "studyType": "Laurea Triennale",
       "startDate": "",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Politecnico di Torino",
+      "area": "Physics of Complex Systems",
       "studyType": "",
       "startDate": "",
       "endDate": "2014",
@@ -51,7 +51,7 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Université Paris-Saclay",
       "area": "B.S. in GitHub",
       "studyType": "",
       "startDate": "",
