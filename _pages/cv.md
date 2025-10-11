@@ -55,3 +55,6 @@ Teaching
 Service and leadership
 ======
 * I am the representative of the PhD students in Computer Science
+
+
+For a more detailed CV, download [this](https://persiakamali.github.io/files/CV_PersiaKamali.pdf) pdf. 
