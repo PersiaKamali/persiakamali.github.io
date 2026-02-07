@@ -28,4 +28,4 @@ I am following two courses:
 
 - [Medical Neuroscience]([https://learning.edx.org/course/course-v1:EPFLx+BIO465.2x+2T2018/home](https://www.coursera.org/learn/medical-neuroscience)) on Coursera. This is course about neurobiology and neuroanatonomy, useful for who has no biological background but wants to eneter the field of neuroscience.
 
-- [Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2026/home) on edx. It is an introductory course to Statistics. Having a very theoretical background, I do not know what a p value is!
+- [Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics) on edx. It is an introductory course to Statistics. Having a very theoretical background, I do not know what a p value is!
