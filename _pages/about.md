@@ -26,10 +26,6 @@ What I am learning about at the moment
 ---
 I am following two courses:
 
-- [Computational Neuroscience: Neuronal Dynamics of Cognition](https://learning.edx.org/course/course-v1:EPFLx+BIO465.2x+2T2018/home) on edX. Having a background in statistical physics, I am following this course in order to pursue my reaserch in the field of neuroscience. I strongly suggest this course for anyone interested in understanding how neuroscientist make quantative models of how the brain learns!
+- [Medical Neuroscience]([https://learning.edx.org/course/course-v1:EPFLx+BIO465.2x+2T2018/home](https://www.coursera.org/learn/medical-neuroscience)) on Coursera. This is course about neurobiology and neuroanatonomy, useful for who has no biological background but wants to eneter the field of neuroscience.
 
-- [MPAGS - High Performance Computing in Julia](https://www.youtube.com/watch?v=KCTQFPKK7gA&list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA) on YouTube. It is a course on the programming language Julia and it is directed towards researchers like me! I also recommend this course for anyone who wants to upgrade their Julia skills.
-
-Where you might find me in the future
----
-I will be attending the [imbizo](https://imbizo.africa) summer school in Cape Town in January 2026. 
+- [Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2026/home) on edx. It is an introductory course to Statistics. Having a very theoretical background, I do not know what a p value is!
